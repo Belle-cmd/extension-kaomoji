@@ -1,0 +1,10 @@
+{
+    "name": "JP Emoticons",
+    "description": "Extension for allowing users to copy paste emoticons",
+    "version": "1.0",
+    "manifest_version": 3,
+
+    "background": {
+        "service_worker": "background.js"
+    }
+}
