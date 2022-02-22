@@ -1,0 +1,12 @@
+body {
+    position: relative;
+    background-color: rgb(211, 242, 235);
+}
+
+
+/* #searchSection {
+
+} */
+#searchSection input[type=text] {
+    border-radius: 20px;
+}
