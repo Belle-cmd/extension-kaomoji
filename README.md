@@ -1,4 +1,4 @@
-# BrowserExtension-JPEmoticons
+# Kaomoji Extension
 This is a google chrome extension that enable users to use Japanese emoticons by just clicking their image on the popup display.
 
 Includes:
